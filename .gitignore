@@ -1,3 +1,4 @@
+*.a
 CTestTestfile.cmake
 cmake_install.cmake
 CMakeCache.txt
